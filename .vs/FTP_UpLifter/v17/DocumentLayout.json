@@ -1,0 +1,340 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jon.ward\\source\\repos\\FTP_UpLifter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA851E9E-7C8A-47D9-8409-A01DA301E637}|FTP_UpLifter.csproj|c:\\users\\jon.ward\\source\\repos\\ftp_uplifter\\jw_utils\\hostedservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA851E9E-7C8A-47D9-8409-A01DA301E637}|FTP_UpLifter.csproj|solutionrelative:jw_utils\\hostedservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA851E9E-7C8A-47D9-8409-A01DA301E637}|FTP_UpLifter.csproj|c:\\users\\jon.ward\\source\\repos\\ftp_uplifter\\jw_utils\\dataobjects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA851E9E-7C8A-47D9-8409-A01DA301E637}|FTP_UpLifter.csproj|solutionrelative:jw_utils\\dataobjects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA851E9E-7C8A-47D9-8409-A01DA301E637}|FTP_UpLifter.csproj|c:\\users\\jon.ward\\source\\repos\\ftp_uplifter\\pages\\editinstances.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA851E9E-7C8A-47D9-8409-A01DA301E637}|FTP_UpLifter.csproj|solutionrelative:pages\\editinstances.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA851E9E-7C8A-47D9-8409-A01DA301E637}|FTP_UpLifter.csproj|c:\\users\\jon.ward\\source\\repos\\ftp_uplifter\\pages\\shared\\createinstanceform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CA851E9E-7C8A-47D9-8409-A01DA301E637}|FTP_UpLifter.csproj|solutionrelative:pages\\shared\\createinstanceform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA851E9E-7C8A-47D9-8409-A01DA301E637}|FTP_UpLifter.csproj|c:\\users\\jon.ward\\source\\repos\\ftp_uplifter\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CA851E9E-7C8A-47D9-8409-A01DA301E637}|FTP_UpLifter.csproj|solutionrelative:pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA851E9E-7C8A-47D9-8409-A01DA301E637}|FTP_UpLifter.csproj|c:\\users\\jon.ward\\source\\repos\\ftp_uplifter\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA851E9E-7C8A-47D9-8409-A01DA301E637}|FTP_UpLifter.csproj|solutionrelative:pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA851E9E-7C8A-47D9-8409-A01DA301E637}|FTP_UpLifter.csproj|c:\\users\\jon.ward\\source\\repos\\ftp_uplifter\\pages\\shared\\createinstanceform.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA851E9E-7C8A-47D9-8409-A01DA301E637}|FTP_UpLifter.csproj|solutionrelative:pages\\shared\\createinstanceform.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA851E9E-7C8A-47D9-8409-A01DA301E637}|FTP_UpLifter.csproj|c:\\users\\jon.ward\\source\\repos\\ftp_uplifter\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CA851E9E-7C8A-47D9-8409-A01DA301E637}|FTP_UpLifter.csproj|solutionrelative:pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA851E9E-7C8A-47D9-8409-A01DA301E637}|FTP_UpLifter.csproj|c:\\users\\jon.ward\\source\\repos\\ftp_uplifter\\ftp_uplifter.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CA851E9E-7C8A-47D9-8409-A01DA301E637}|FTP_UpLifter.csproj|solutionrelative:ftp_uplifter.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA851E9E-7C8A-47D9-8409-A01DA301E637}|FTP_UpLifter.csproj|c:\\users\\jon.ward\\source\\repos\\ftp_uplifter\\kwp.epayables_ssh_key.pub||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{CA851E9E-7C8A-47D9-8409-A01DA301E637}|FTP_UpLifter.csproj|solutionrelative:kwp.epayables_ssh_key.pub||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA851E9E-7C8A-47D9-8409-A01DA301E637}|FTP_UpLifter.csproj|c:\\users\\jon.ward\\source\\repos\\ftp_uplifter\\pages\\ftpsettings.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CA851E9E-7C8A-47D9-8409-A01DA301E637}|FTP_UpLifter.csproj|solutionrelative:pages\\ftpsettings.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA851E9E-7C8A-47D9-8409-A01DA301E637}|FTP_UpLifter.csproj|c:\\users\\jon.ward\\source\\repos\\ftp_uplifter\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CA851E9E-7C8A-47D9-8409-A01DA301E637}|FTP_UpLifter.csproj|solutionrelative:pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA851E9E-7C8A-47D9-8409-A01DA301E637}|FTP_UpLifter.csproj|c:\\users\\jon.ward\\source\\repos\\ftp_uplifter\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CA851E9E-7C8A-47D9-8409-A01DA301E637}|FTP_UpLifter.csproj|solutionrelative:pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA851E9E-7C8A-47D9-8409-A01DA301E637}|FTP_UpLifter.csproj|c:\\users\\jon.ward\\source\\repos\\ftp_uplifter\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CA851E9E-7C8A-47D9-8409-A01DA301E637}|FTP_UpLifter.csproj|solutionrelative:pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA851E9E-7C8A-47D9-8409-A01DA301E637}|FTP_UpLifter.csproj|c:\\users\\jon.ward\\source\\repos\\ftp_uplifter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA851E9E-7C8A-47D9-8409-A01DA301E637}|FTP_UpLifter.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA851E9E-7C8A-47D9-8409-A01DA301E637}|FTP_UpLifter.csproj|c:\\users\\jon.ward\\source\\repos\\ftp_uplifter\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA851E9E-7C8A-47D9-8409-A01DA301E637}|FTP_UpLifter.csproj|solutionrelative:startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jon.ward\\source\\repos\\FTP_UpLifter\\Pages\\Shared\\Component.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Pages\\Shared\\Component.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 19,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{dcc4ea97-1c0c-482b-b205-e541c0df9728}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{dcc4ea97-1c0c-482b-b205-e541c0df9728}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataObjects.cs",
+              "DocumentMoniker": "C:\\Users\\jon.ward\\source\\repos\\FTP_UpLifter\\JW_Utils\\DataObjects.cs",
+              "RelativeDocumentMoniker": "JW_Utils\\DataObjects.cs",
+              "ToolTip": "C:\\Users\\jon.ward\\source\\repos\\FTP_UpLifter\\JW_Utils\\DataObjects.cs",
+              "RelativeToolTip": "JW_Utils\\DataObjects.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAANIAAACgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T17:01:33.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EditInstances.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\jon.ward\\source\\repos\\FTP_UpLifter\\Pages\\EditInstances.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\EditInstances.cshtml.cs",
+              "ToolTip": "C:\\Users\\jon.ward\\source\\repos\\FTP_UpLifter\\Pages\\EditInstances.cshtml.cs",
+              "RelativeToolTip": "Pages\\EditInstances.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T14:42:46.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FtpSettings.cshtml",
+              "DocumentMoniker": "C:\\Users\\jon.ward\\source\\repos\\FTP_UpLifter\\Pages\\FtpSettings.cshtml",
+              "RelativeDocumentMoniker": "Pages\\FtpSettings.cshtml",
+              "ToolTip": "C:\\Users\\jon.ward\\source\\repos\\FTP_UpLifter\\Pages\\FtpSettings.cshtml",
+              "RelativeToolTip": "Pages\\FtpSettings.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T15:54:19.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateInstanceForm.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\jon.ward\\source\\repos\\FTP_UpLifter\\Pages\\Shared\\CreateInstanceForm.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Shared\\CreateInstanceForm.cshtml.cs",
+              "ToolTip": "C:\\Users\\jon.ward\\source\\repos\\FTP_UpLifter\\Pages\\Shared\\CreateInstanceForm.cshtml.cs",
+              "RelativeToolTip": "Pages\\Shared\\CreateInstanceForm.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T16:03:35.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateInstanceForm.cshtml",
+              "DocumentMoniker": "C:\\Users\\jon.ward\\source\\repos\\FTP_UpLifter\\Pages\\Shared\\CreateInstanceForm.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\CreateInstanceForm.cshtml",
+              "ToolTip": "C:\\Users\\jon.ward\\source\\repos\\FTP_UpLifter\\Pages\\Shared\\CreateInstanceForm.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\CreateInstanceForm.cshtml",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAGMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T16:02:50.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\jon.ward\\source\\repos\\FTP_UpLifter\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\jon.ward\\source\\repos\\FTP_UpLifter\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "Pages\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T14:17:29.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\jon.ward\\source\\repos\\FTP_UpLifter\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\jon.ward\\source\\repos\\FTP_UpLifter\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T14:16:17.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "KWP.epayables_SSH_Key.pub",
+              "DocumentMoniker": "C:\\Users\\jon.ward\\source\\repos\\FTP_UpLifter\\KWP.epayables_SSH_Key.pub",
+              "RelativeDocumentMoniker": "KWP.epayables_SSH_Key.pub",
+              "ToolTip": "C:\\Users\\jon.ward\\source\\repos\\FTP_UpLifter\\KWP.epayables_SSH_Key.pub",
+              "RelativeToolTip": "KWP.epayables_SSH_Key.pub",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAwAQAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAESSURBVDhPY2RAA5XlJe\u002BBlACEhxMktnf2LGD4//8/C1QAGQg0NrdBmZigvrYKRM0HWsTQzsjIyAQWJREEBoWAKJAhCSQbwMHBwbB\u002B3Rooj2E\u002BI3NFDV4/8wM1vKgqg/IQ4OfPnwxtLY0MIBfgDbCPP35AWaiAnZ0dTKME4p/2ZiiLgaFoyzaGSUePQ3kMDLZnrkFZEHDYRAtMY4QBS2UtWKO/liZUBD/AMGBvahJDnLEhw8H7D6Ai\u002BAFGOmjaux9MH7x3H0zDAMzJ6ADDAHSNMKCwcDmUBQEP4iPBNCga/4NZeMD3pjooCxWAUiUoDD5AuNgBKB2QBIDJ8/\u002BvX7\u002BIwiC1JCdlGAClRBAgNztDAcMHAMpLdJMQO71tAAAAAElFTkSuQmCC",
+              "WhenOpened": "2024-11-18T13:37:41.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FTP_UpLifter.csproj",
+              "DocumentMoniker": "C:\\Users\\jon.ward\\source\\repos\\FTP_UpLifter\\FTP_UpLifter.csproj",
+              "RelativeDocumentMoniker": "FTP_UpLifter.csproj",
+              "ToolTip": "C:\\Users\\jon.ward\\source\\repos\\FTP_UpLifter\\FTP_UpLifter.csproj",
+              "RelativeToolTip": "FTP_UpLifter.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-18T13:42:54.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\jon.ward\\source\\repos\\FTP_UpLifter\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\jon.ward\\source\\repos\\FTP_UpLifter\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "Pages\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T14:17:27.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\jon.ward\\source\\repos\\FTP_UpLifter\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\jon.ward\\source\\repos\\FTP_UpLifter\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T14:17:04.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Component.razor",
+              "DocumentMoniker": "C:\\Users\\jon.ward\\source\\repos\\FTP_UpLifter\\Pages\\Shared\\Component.razor",
+              "RelativeDocumentMoniker": "Pages\\Shared\\Component.razor",
+              "ToolTip": "C:\\Users\\jon.ward\\source\\repos\\FTP_UpLifter\\Pages\\Shared\\Component.razor",
+              "RelativeToolTip": "Pages\\Shared\\Component.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T14:17:00.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jon.ward\\source\\repos\\FTP_UpLifter\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\jon.ward\\source\\repos\\FTP_UpLifter\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T13:44:55.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HostedServices.cs",
+              "DocumentMoniker": "C:\\Users\\jon.ward\\source\\repos\\FTP_UpLifter\\JW_Utils\\HostedServices.cs",
+              "RelativeDocumentMoniker": "JW_Utils\\HostedServices.cs",
+              "ToolTip": "C:\\Users\\jon.ward\\source\\repos\\FTP_UpLifter\\JW_Utils\\HostedServices.cs",
+              "RelativeToolTip": "JW_Utils\\HostedServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGAAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T13:43:45.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\jon.ward\\source\\repos\\FTP_UpLifter\\StartUp.cs",
+              "RelativeDocumentMoniker": "StartUp.cs",
+              "ToolTip": "C:\\Users\\jon.ward\\source\\repos\\FTP_UpLifter\\StartUp.cs",
+              "RelativeToolTip": "StartUp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T12:46:15.561Z"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "a8acf0a5-3f52-40ae-93ad-bd9659f13b4b",
+        "Display": 0,
+        "X": 1259,
+        "Y": 741,
+        "Width": 696,
+        "Height": 1374,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\jon.ward\\source\\repos\\FTP_UpLifter\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\jon.ward\\source\\repos\\FTP_UpLifter\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T19:51:14.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\jon.ward\\source\\repos\\FTP_UpLifter\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\jon.ward\\source\\repos\\FTP_UpLifter\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T19:23:03.988Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

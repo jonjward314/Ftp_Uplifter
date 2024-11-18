@@ -1,0 +1,53 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+</div>
+
+@if (Model.instanceSettings is not null && Model.instanceSettings.InstanceCount > 0)
+{
+    <div>
+        <h5 class="text-secondary">Uploader List:</h5>
+        
+        <ol class="list-group list-group-numbered">  
+           @for (int i = 0; i < Model.instanceSettings.InstanceCount; i++)  
+           {  
+               <li class="list-group-item">  
+                   <strong>Watched Directory:</strong> @Model.watchedDirectorySettings[i].DirectoryPath,  
+                   @if (Model.activationSettings[i].IsEnabled_Sftp) {
+                        <strong>Server:</strong>@(" " + Model.ftpSettings[i].FtpServer + ", ")
+                        <strong>Remote Path:</strong>@(" " + Model.sftpSettings[i].RemotePath)
+                   }  
+                   else {
+                        <strong>Server:</strong>
+
+                        @(" " + Model.ftpSettings[i].FtpServer + ", ")
+                        <strong>Remote Path:</strong>
+
+                        @(" " + Model.ftpSettings[i].DestinationFolder)
+                    }
+                   , Active: @(Model.activationSettings[i].IsEnabled_FileWatcher) 
+               </li>  
+           }  
+        </ol>
+    </div>
+}
+else if ((Model.instanceSettings is null || Model.instanceSettings.InstanceCount == 0) && !Model.ShowForm)
+{
+    <div class="text-center">
+        <p>There are currently no FileWatcher to Ftp Uplift instances created. Would you like to create one?</p>
+        <form method="post" asp-page-handler="GetStarted">
+            <button type="submit" class="btn btn-primary">Get Started</button>
+        </form>
+    </div>
+}
+
+@if (Model.ShowForm)
+{
+    <h1>Create Instance</h1>
+    <partial name="Shared/CreateInstanceForm" model="Model.CreateInstanceForm" />
+}

@@ -1,0 +1,39 @@
+﻿@page
+@model EditInstancesModel
+@{
+    ViewData["Title"] = "Edit Uploaders";
+}
+<h1>@ViewData["Title"]</h1>
+
+
+@if (Model.instanceSettings is not null && Model.instanceSettings.InstanceCount > 0)
+{
+    <div style="display: flex; justify-content: space-between;">
+        <form method="post" asp-page-handler="InstanceChangePost" style="flex: 1; margin-right: 10px;">
+            <label for="instanceSelect">Select Instance:</label>
+            <select id="instanceSelect" name="SelectedInstance">
+                @for (int i = 1; i <= Model.instanceSettings.InstanceCount; i++)
+                {
+                    <option value="@i" selected="@(i == Model.instanceSettings.ActiveInstance)">@($"Instance {i}")</option>
+                }
+            </select>
+            <button type="submit">Change Instance</button>
+        </form>
+        <form method="post" asp-page-handler="AddInstancePost" style="flex: 1;">
+            <button type="submit">Add New Instance</button>
+        </form>
+        <form method="post" asp-page-handler="DeleteInstancePost" style="flex: 1;">
+            <button type="submit">Remove Instance</button>
+        </form>
+    </div>
+    <partial name="Shared/CreateInstanceForm" model="Model.CreateInstanceForm" />
+}
+else if ((Model.instanceSettings is null || Model.instanceSettings.InstanceCount == 0) && !Model.ShowForm)
+{
+    <div class="text-center">
+        <p>There are currently no FileWatcher to Ftp Uplift instances created. Would you like to create one?</p>
+        <form method="post" asp-page-handler="GetStarted">
+            <button type="submit" class="btn btn-primary">Get Started</button>
+        </form>
+    </div>
+}

@@ -1,0 +1,4 @@
+C:\Users\jon.ward\source\repos\FTP_UpLifter\obj\Host\bin\appsettings.Development.json
+C:\Users\jon.ward\source\repos\FTP_UpLifter\obj\Host\bin\appsettings.json
+C:\Users\jon.ward\source\repos\FTP_UpLifter\obj\Host\bin\FTP_UpLifter.pdb
+C:\Users\jon.ward\source\repos\FTP_UpLifter\obj\Host\bin\FTP_UpLifter.exe
